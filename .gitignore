@@ -1,0 +1,24 @@
+# Visual Studio
+.vs/
+**/bin/
+**/obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa]rtifacts/
+
+# ASP.NET Core
+appsettings.Development.json
+
+# OS files
+.DS_Store
+Thumbs.db
